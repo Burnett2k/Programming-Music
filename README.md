@@ -6,5 +6,6 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |artist|album/playlist|link|
 |---|---|---|
 |STS9|Moon Socket|[link](https://open.spotify.com/album/3D0Qas7vQzxhtSQh7zHfln?si=D3dJBa4dQVOYjpO3ZaS4uA)|
+|Sigur Ros|Hoppipolla|[link](https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm)|
 |   |   |   |
 |   |   |   |
