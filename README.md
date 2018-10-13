@@ -5,12 +5,18 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 
 |Categories|
 |---|
+|[Classical](#classical)|
 |[Electronic](#electronic)|
 |[Metal](#metal)|
 |[Misc](#misc)|
 |[Pop](#pop)|
 |[Soundtracks](#soundtracks)|
 
+
+## Classical
+|Artist|Name|Type|Link|
+|---|---|---|---|
+|Various|Space-themed Classical Music|Playlist|[link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX0i61tT0OnnK?si=SE-kbRkCSO28rk_RoqnpRQ)|
 
 ## Electronic
 |Artist|Name|Type|Link|
