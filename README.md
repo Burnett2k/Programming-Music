@@ -25,6 +25,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |STS9|When the Dust Settles|Album|[link](https://open.spotify.com/album/03bgk8Ydn4loMe9nbqtsO6?si=pVmAf4R3QdOMqOjx-E8PmA)|
 |Daft Punk|Random Access Memories|Album|[link](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa?si=Iza4KlHuRcObX3GOzriOGQ)|
 |Various|Electric Jams|Playlist|[link](https://open.spotify.com/user/22slh5nu2nlc3g4skclpnshbq/playlist/0RmGBg8pmcILnfN4wZUKo3?si=GjUt4_LgR6eKHZ2RVP_Yrg)|
+|Bag Raiders|Shooting Stars|Song|[link](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x?si=ThRZUizATyy2S0ZMjezQ4g)|
 
 ## Metal
 |Artist|Name|Type|Link|
