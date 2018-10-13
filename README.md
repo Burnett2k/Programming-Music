@@ -5,11 +5,11 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 
 |Categories|
 |---|
-|[Electronic](#Electronic)|
-|[Metal](#Metal)|
-|[Misc](#Misc)|
-|[Pop](#Pop)|
-|[Soundtracks](#Soundtracks)|
+|[Electronic](#electronic)|
+|[Metal](#metal)|
+|[Misc](#misc)|
+|[Pop](#pop)|
+|[Soundtracks](#soundtracks)|
 
 
 ## Electronic
