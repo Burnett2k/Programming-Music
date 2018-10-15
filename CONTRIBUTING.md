@@ -3,6 +3,7 @@
 Please follow these rules if you want to contribute:
 
 - Every pull request must have a title and proper description
+- Don't have any spelling or markdown formatting errors
 - Use proper markdown to maintain styling
 - Have fun
 
