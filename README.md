@@ -7,11 +7,11 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |---|
 |[Classical](#classical)|
 |[Electronic](#electronic)|
+|[Indie](#indie)|
 |[Metal](#metal)|
 |[Misc](#misc)|
 |[Pop](#pop)|
 |[Soundtracks](#soundtracks)|
-|[Indie](#indie)|
 
 
 ## Classical
@@ -28,6 +28,12 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Various|Electric Jams|Playlist|[link](https://open.spotify.com/user/22slh5nu2nlc3g4skclpnshbq/playlist/0RmGBg8pmcILnfN4wZUKo3?si=GjUt4_LgR6eKHZ2RVP_Yrg)|
 |Bag Raiders|Shooting Stars|Song|[link](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x?si=ThRZUizATyy2S0ZMjezQ4g)|
 |Various|WIP (Work in Progress)|Playlist|[link](https://open.spotify.com/user/bwandin/playlist/2xWIxCqVb0gPK6EQMbtmqr?si=p4qwlX-_S6eqvTJZQQyECQ)|
+
+## Indie
+|Artist|Name|Type|Link|
+|---|---|---|---|
+|Lykke Li|I Follow Rivers|Song|[link](https://www.youtube.com/watch?v=K3JGxj2rvAs)|
+|Message To Bears|Mountains|Song|[link](https://www.youtube.com/watch?v=kXcOyYEldZY)|
 
 ## Metal
 |Artist|Name|Type|Link|
@@ -61,9 +67,3 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |---|---|---|---|
 |Various|The Matrix Reloaded Soundtrack|Playlist|[link](https://open.spotify.com/user/1282969698/playlist/710Kp9DeACbyaNxKbXM2Iq?si=H3nGDqcAQh-uupbruyFEBA)|
 |Various|Video Game Masterpieces|Playlist|[link](https://open.spotify.com/user/wizzler/playlist/3FJd21jWvCjGCLx7eKrext?si=hGJiVv4-TKuCb1LBn1qThg)|
-
-## Indie
-|Artist|Name|Type|Link|
-|---|---|---|---|
-|Lykke Li|I Follow Rivers|Song|[link](https://www.youtube.com/watch?v=K3JGxj2rvAs)|
-|Message To Bears|Mountains|Song|[link](https://www.youtube.com/watch?v=kXcOyYEldZY)|
