@@ -11,6 +11,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |[Misc](#misc)|
 |[Pop](#pop)|
 |[Soundtracks](#soundtracks)|
+|[Indie](#indie)|
 
 
 ## Classical
@@ -60,3 +61,9 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |---|---|---|---|
 |Various|The Matrix Reloaded Soundtrack|Playlist|[link](https://open.spotify.com/user/1282969698/playlist/710Kp9DeACbyaNxKbXM2Iq?si=H3nGDqcAQh-uupbruyFEBA)|
 |Various|Video Game Masterpieces|Playlist|[link](https://open.spotify.com/user/wizzler/playlist/3FJd21jWvCjGCLx7eKrext?si=hGJiVv4-TKuCb1LBn1qThg)|
+
+## Indie
+|Artist|Name|Type|Link|
+|---|---|---|---|
+|Lykke Li|I Follow Rivers|Song|[link](https://www.youtube.com/watch?v=K3JGxj2rvAs)|
+|Message To Bears|Mountains|Song|[link](https://www.youtube.com/watch?v=kXcOyYEldZY)|
