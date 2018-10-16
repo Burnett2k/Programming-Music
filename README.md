@@ -39,7 +39,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Artist|Name|Type|Link|
 |---|---|---|---|
 |Severed Fifth|Liberate|Song|[link](https://www.jonobacon.com/creative/)|
-|August Burns Red|Rescue & Restore|Album|[link](https://open.spotify.com/album/122Inm0FyXETRN62DmNeY5)
+|August Burns Red|Rescue & Restore|Album|[link](https://open.spotify.com/album/122Inm0FyXETRN62DmNeY5)|
 
 ## Misc
 |Artist|Name|Type|Link|
