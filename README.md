@@ -18,6 +18,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Artist|Name|Type|Link|
 |---|---|---|---|
 |Various|Space-themed Classical Music|Playlist|[link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX0i61tT0OnnK?si=SE-kbRkCSO28rk_RoqnpRQ)|
+|Yo-Yo Ma|Yo-Yo Ma Plays Bach|Playlist|[link](https://open.spotify.com/album/2eM9vnf9lUImBz3cVWkZl1)|
 
 ## Electronic
 |Artist|Name|Type|Link|
