@@ -12,6 +12,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |[Misc](#misc)|
 |[Pop](#pop)|
 |[Soundtracks](#soundtracks)|
+|[Ambient](#ambient)|
 
 
 ## Classical
@@ -69,3 +70,10 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |---|---|---|---|
 |Various|The Matrix Reloaded Soundtrack|Playlist|[link](https://open.spotify.com/user/1282969698/playlist/710Kp9DeACbyaNxKbXM2Iq?si=H3nGDqcAQh-uupbruyFEBA)|
 |Various|Video Game Masterpieces|Playlist|[link](https://open.spotify.com/user/wizzler/playlist/3FJd21jWvCjGCLx7eKrext?si=hGJiVv4-TKuCb1LBn1qThg)|
+
+## Ambient
+|Artist|Name|Type|Link|
+|---|---|---|---|
+|Brian Eno|Ambient 1/ Music for Airports|Album|[link](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa)|
+|Aphex Twin|Selected Ambient Works Volume II|Album|[link](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe)|
+|God is An Astronaut|All Is Violent, All Is Bright|Album|[link](https://open.spotify.com/album/1FNW2D6cUdpOWnV38xuGIT)|
