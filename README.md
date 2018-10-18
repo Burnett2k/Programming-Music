@@ -5,6 +5,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 
 |Categories|
 |---|
+|[Ambient](#ambient)|
 |[Classical](#classical)|
 |[Electronic](#electronic)|
 |[Indie](#indie)|
@@ -13,6 +14,12 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |[Pop](#pop)|
 |[Soundtracks](#soundtracks)|
 
+## Ambient
+|Artist|Name|Type|Link|
+|---|---|---|---|
+|Brian Eno|Ambient 1/ Music for Airports|Album|[link](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa)|
+|Aphex Twin|Selected Ambient Works Volume II|Album|[link](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe)|
+|God is An Astronaut|All Is Violent, All Is Bright|Album|[link](https://open.spotify.com/album/1FNW2D6cUdpOWnV38xuGIT)|
 
 ## Classical
 |Artist|Name|Type|Link|
