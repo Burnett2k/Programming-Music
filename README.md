@@ -24,6 +24,9 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 ## Classical
 |Artist|Name|Type|Link|
 |---|---|---|---|
+|Glenn Gould & Leonard Rose|Bach: The Three Sonatas for Viola da Gamba and Harpsichord|Album|[link](https://open.spotify.com/album/5XKdNkCWgs8fU9oJRxjPgh)|
+|Paul Galbraith|French Impressions|Album|[link](https://open.spotify.com/album/2QreoeKjIJraazPddIuvVq)|
+|Sabine Weyer|Bach to the Future|Album|[link](https://open.spotify.com/album/3n4MfImxDwE9wGU4JnJUEL)|
 |Various|Space-themed Classical Music|Playlist|[link](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX0i61tT0OnnK?si=SE-kbRkCSO28rk_RoqnpRQ)|
 |Yo-Yo Ma|Yo-Yo Ma Plays Bach|Playlist|[link](https://open.spotify.com/album/2eM9vnf9lUImBz3cVWkZl1)|
 
