@@ -30,9 +30,10 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 ## Electronic
 |Artist|Name|Type|Link|
 |---|---|---|---|
+|Daft Punk|Random Access Memories|Album|[link](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa?si=Iza4KlHuRcObX3GOzriOGQ)|
+|Hot Chip|In Our Heads|Album|[link](https://open.spotify.com/album/5GDNKEug3ME9sCAtCU0vu7)|
 |STS9|Moon Socket|Album|[link](https://open.spotify.com/album/3D0Qas7vQzxhtSQh7zHfln?si=D3dJBa4dQVOYjpO3ZaS4uA)|
 |STS9|When the Dust Settles|Album|[link](https://open.spotify.com/album/03bgk8Ydn4loMe9nbqtsO6?si=pVmAf4R3QdOMqOjx-E8PmA)|
-|Daft Punk|Random Access Memories|Album|[link](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa?si=Iza4KlHuRcObX3GOzriOGQ)|
 |Various|Electric Jams|Playlist|[link](https://open.spotify.com/user/22slh5nu2nlc3g4skclpnshbq/playlist/0RmGBg8pmcILnfN4wZUKo3?si=GjUt4_LgR6eKHZ2RVP_Yrg)|
 |Bag Raiders|Shooting Stars|Song|[link](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x?si=ThRZUizATyy2S0ZMjezQ4g)|
 |Various|WIP (Work in Progress)|Playlist|[link](https://open.spotify.com/user/bwandin/playlist/2xWIxCqVb0gPK6EQMbtmqr?si=p4qwlX-_S6eqvTJZQQyECQ)|
@@ -40,13 +41,16 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 ## Indie
 |Artist|Name|Type|Link|
 |---|---|---|---|
+|Beach House|Bloom|Album|[link](https://open.spotify.com/album/0AL7olZ75pi55q9p1eHaD8)|
 |Lykke Li|I Follow Rivers|Song|[link](https://www.youtube.com/watch?v=K3JGxj2rvAs)|
 |Message To Bears|Mountains|Song|[link](https://www.youtube.com/watch?v=kXcOyYEldZY)|
+|The National|High Violet|Album|[link](https://open.spotify.com/album/6k54ZuG2Z49HQRbJdO65b5)|
 
 ## Metal
 |Artist|Name|Type|Link|
 |---|---|---|---|
 |Severed Fifth|Liberate|Song|[link](https://www.jonobacon.com/creative/)|
+|Alcest|Écailles de Lune|Album|[link](https://open.spotify.com/album/67g2ZVpS6tLus7uvIt5dZT)|
 |August Burns Red|Rescue & Restore|Album|[link](https://open.spotify.com/album/122Inm0FyXETRN62DmNeY5)|
 
 ## Misc
@@ -67,6 +71,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 ## Pop
 |Artist|Name|Type|Link|
 |---|---|---|---|
+|Christine and the Queens|Chris|Album|[link](https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh)|
 |Michael Jackson|Thriller|Album|[link](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ)|
 |JO Mastic|Busy Guys|Album|[link](https://open.spotify.com/album/0PfolHyCFVkFge1NYwDLFq)|
 
@@ -76,3 +81,4 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |---|---|---|---|
 |Various|The Matrix Reloaded Soundtrack|Playlist|[link](https://open.spotify.com/user/1282969698/playlist/710Kp9DeACbyaNxKbXM2Iq?si=H3nGDqcAQh-uupbruyFEBA)|
 |Various|Video Game Masterpieces|Playlist|[link](https://open.spotify.com/user/wizzler/playlist/3FJd21jWvCjGCLx7eKrext?si=hGJiVv4-TKuCb1LBn1qThg)|
+|Various|Fallout 4 - Diamond City Radio|Playlist|[link](https://open.spotify.com/playlist/2JIuYQjoY4GnnLH0STezkK)|
