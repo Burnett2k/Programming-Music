@@ -9,6 +9,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |[Classical](#classical)|
 |[Electronic](#electronic)|
 |[Indie](#indie)|
+|[Lo-fi](#lo-fi)|
 |[Metal](#metal)|
 |[Misc](#misc)|
 |[Pop](#pop)|
@@ -48,6 +49,12 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Lykke Li|I Follow Rivers|Song|[link](https://www.youtube.com/watch?v=K3JGxj2rvAs)|
 |Message To Bears|Mountains|Song|[link](https://www.youtube.com/watch?v=kXcOyYEldZY)|
 |The National|High Violet|Album|[link](https://open.spotify.com/album/6k54ZuG2Z49HQRbJdO65b5)|
+
+## Lo-fi
+|Artist|Name|Type|Link|
+|---|---|---|---|
+|Nujabes|Feather|Song|[link](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR?si=6tN_XbGeTxqoFwgZlIr5Ww)|
+|Ibrahim|Candles & Street Lights|Album|[link](https://open.spotify.com/album/6NBszs4KSfg22ltDGTCl4n?si=R92gSxroQsihfoMeHGnaRA)|
 
 ## Metal
 |Artist|Name|Type|Link|
