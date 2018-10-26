@@ -49,6 +49,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Lykke Li|I Follow Rivers|Song|[link](https://www.youtube.com/watch?v=K3JGxj2rvAs)|
 |Message To Bears|Mountains|Song|[link](https://www.youtube.com/watch?v=kXcOyYEldZY)|
 |The National|High Violet|Album|[link](https://open.spotify.com/album/6k54ZuG2Z49HQRbJdO65b5)|
+|Unknown Mortal Orchestra|Sex & Food|Album|[link](https://open.spotify.com/album/7c2Xfq7aQKzs0KdSI3K7Rc)|
 
 ## Lo-fi
 |Artist|Name|Type|Link|
@@ -92,3 +93,4 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Various|The Matrix Reloaded Soundtrack|Playlist|[link](https://open.spotify.com/user/1282969698/playlist/710Kp9DeACbyaNxKbXM2Iq?si=H3nGDqcAQh-uupbruyFEBA)|
 |Various|Video Game Masterpieces|Playlist|[link](https://open.spotify.com/user/wizzler/playlist/3FJd21jWvCjGCLx7eKrext?si=hGJiVv4-TKuCb1LBn1qThg)|
 |Various|Fallout 4 - Diamond City Radio|Playlist|[link](https://open.spotify.com/playlist/2JIuYQjoY4GnnLH0STezkK)|
+|Kristofer Maddigan|Cuphead (Original Soundtrack)|Album|[link](https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu)|
