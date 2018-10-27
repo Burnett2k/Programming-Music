@@ -8,6 +8,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |[Ambient](#ambient)|
 |[Classical](#classical)|
 |[Electronic](#electronic)|
+|[Folk](#folk)|
 |[Indie](#indie)|
 |[Lo-fi](#lo-fi)|
 |[Metal](#metal)|
@@ -41,6 +42,11 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Various|Electric Jams|Playlist|[link](https://open.spotify.com/user/22slh5nu2nlc3g4skclpnshbq/playlist/0RmGBg8pmcILnfN4wZUKo3?si=GjUt4_LgR6eKHZ2RVP_Yrg)|
 |Bag Raiders|Shooting Stars|Song|[link](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x?si=ThRZUizATyy2S0ZMjezQ4g)|
 |Various|WIP (Work in Progress)|Playlist|[link](https://open.spotify.com/user/bwandin/playlist/2xWIxCqVb0gPK6EQMbtmqr?si=p4qwlX-_S6eqvTJZQQyECQ)|
+
+## Folk
+|Artist|Name|Type|Link|
+|---|---|---|---|
+|Jay Ungar|Ashokan Farewell|Song|[link](https://open.spotify.com/track/43JiVtB9jSv89httTl3Hjb?si=g1JGIwMtT8mRGQ_j5OPKXg)
 
 ## Indie
 |Artist|Name|Type|Link|
