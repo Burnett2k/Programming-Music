@@ -84,7 +84,9 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |---|---|---|---|
 |Christine and the Queens|Chris|Album|[link](https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh)|
 |Michael Jackson|Thriller|Album|[link](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ)|
+|Lemonade|Beyoncé|Album|[link](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF?si=xZ1yE2uKQQqREa8DK9nNfA)|
 |JO Mastic|Busy Guys|Album|[link](https://open.spotify.com/album/0PfolHyCFVkFge1NYwDLFq)|
+|HOMECOMING: THE LIVE ALBUM|Beyoncé|Album|[link](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x?si=wj9zxsySR--wfpPx6-zTiQ)|
 
 
 ## Soundtracks
