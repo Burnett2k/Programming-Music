@@ -13,6 +13,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |[Metal](#metal)|
 |[Misc](#misc)|
 |[Pop](#pop)|
+|[Rock](#Rock)|
 |[Soundtracks](#soundtracks)|
 
 ## Ambient
@@ -86,6 +87,13 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Michael Jackson|Thriller|Album|[link](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ)|
 |JO Mastic|Busy Guys|Album|[link](https://open.spotify.com/album/0PfolHyCFVkFge1NYwDLFq)|
 
+## Rock
+|Artist|Name|Type|Link|
+|---|---|---|---|
+|21 Pilots|Car Radio|Music|[Link](https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P?si=GJPVNMQaQsiu9v2zmZZbFA)|
+|Silver Chair| Anthem for the year 2000|Music|[link](https://open.spotify.com/track/3J19l4hOfwFFIF715BwVcG?si=DG-aE_rcSX-Bp6kG82-dNw)|
+|Nirvana|The Man Who Sold the World|Music|[Link](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg?si=42tUJaitSii5Hfp9U8p82w)|
+|The Protoman|Act II: The Father of Death|Album|[Link](https://open.spotify.com/album/5dVmbXxmkROv6smdOfTcyJ?si=FhijKmrJS3yVtKaPwGMacA)|
 
 ## Soundtracks
 |Artist|Name|Type|Link|
