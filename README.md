@@ -41,6 +41,7 @@ A crowd sourced list of the best music to program to! Please contribute and feel
 |Various|Electric Jams|Playlist|[link](https://open.spotify.com/user/22slh5nu2nlc3g4skclpnshbq/playlist/0RmGBg8pmcILnfN4wZUKo3?si=GjUt4_LgR6eKHZ2RVP_Yrg)|
 |Bag Raiders|Shooting Stars|Song|[link](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x?si=ThRZUizATyy2S0ZMjezQ4g)|
 |Various|WIP (Work in Progress)|Playlist|[link](https://open.spotify.com/user/bwandin/playlist/2xWIxCqVb0gPK6EQMbtmqr?si=p4qwlX-_S6eqvTJZQQyECQ)|
+|Lindsey Sterling|Various|Playlist|[link](https://www.pandora.com/station/play/4354984766800439429)
 
 ## Indie
 |Artist|Name|Type|Link|
